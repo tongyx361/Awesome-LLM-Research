@@ -5,9 +5,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/tongyx361/Awesome-LLM-Research)
 [![License: Apache](https://img.shields.io/badge/License-Apache-green.svg)](https://opensource.org/licenses/Apache)
 
+| [🐱 GitHub](https://github.com/tongyx361/Awesome-LLM-Research) | [🐦 Twitter](https://twitter.com/tongyx361/status/1780956572384145515) |
+
 📢 If you have any suggestions, please don't hesitate to let us know. You can
 
 - directly [E-mail *Yuxuan Tong*](tongyuxuan361@gmail.com),
+- comment under the [*Twitter* thread](https://twitter.com/tongyx361/status/1780956572384145515),
 - or post an issue on the [*GitHub* repository](https://github.com/tongyx361/Awesome-LLM-Research).
 
 | Link                                                                                                                           | Abstract                                                                                        | Description                                                                                                                                                                        |
