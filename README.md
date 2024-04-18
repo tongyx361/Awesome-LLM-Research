@@ -7,11 +7,11 @@
 
 For the most updated list, please refer to the [Notion page](https://tongyx361.notion.site/Awesome-LLM-Research-f1b35e05436f4e69b4293ae81b425430).
 
-:bell: If you have any suggestions, please don't hesitate to let us know. You can
+📢 If you have any suggestions, please don't hesitate to let us know. You can
 
 - directly [E-mail Yuxuan Tong](tongyuxuan361@gmail.com),
 - comment on the [Notion page](https://tongyx361.notion.site/Awesome-LLM-Research-f1b35e05436f4e69b4293ae81b425430),
-- or post an issue on this repo.
+- or post an issue on the [GitHub repository](https://github.com/tongyx361/Awesome-LLM-Research).
 
 | Link                                                                                                                           | Abstract                                                                                         | Description                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
