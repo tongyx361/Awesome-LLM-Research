@@ -1,3 +1,4 @@
+# Awesome LLM Research
 
 > Curation of resources for **LLM research**, **screened** by @tongyx361 to ensure **high quality** and accompanied with **elaborately-written concise descriptions** to help readers get the gist as quickly as possible.
 
