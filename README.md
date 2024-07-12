@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/tongyx361/Awesome-LLM-Research) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[🐱 GitHub](https://github.com/tongyx361/Awesome-LLM-Research) | [🐦 X(Twitter)](https://twitter.com/tongyx361/status/1780956572384145515) | [📝 Notion (Interactable)](https://tongyx361.notion.site/Awesome-LLM-Research-7b999071d476409cb1fbfdd081f87086) | [🐶 Zhihu(知乎)](https://zhuanlan.zhihu.com/p/708331040)
+🐱 [GitHub](https://github.com/tongyx361/Awesome-LLM-Research) | 📝 [Notion (Interactable)](https://tongyx361.notion.site/Awesome-LLM-Research-7b999071d476409cb1fbfdd081f87086) | 🐦 [X(Twitter)](https://twitter.com/tongyx361/status/1780956572384145515) | 🐶 [Zhihu(知乎)](https://zhuanlan.zhihu.com/p/708331040)
 
 ✨ Featured by:
 
